@@ -13,7 +13,5 @@ public class TestController {
       return new HashMap<String,String>();
    }
 
-   public Object get3() {
-      return "revert";
-   }
+
 }
